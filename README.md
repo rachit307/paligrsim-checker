@@ -9,7 +9,7 @@ Clone the repository to your local machine.
 Usage
 To use the plagiarism detector, navigate to the cloned directory in your terminal and run the following command:
 
-python plagiarism_detector.py file1.txt file2.txt
+python plagiarism-checker.py file1.txt file2.txt
 
 Replace file1.txt and file2.txt with the names of the files you want to compare.
 
